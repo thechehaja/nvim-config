@@ -1,0 +1,14 @@
+# Swap files
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.tmp
+
+# Session files
+Session.vim
+
+# Plugin-specific caches
+plugged/
+site/

@@ -1,14 +1,5 @@
-# Swap files
+# Neovim runtime data (installed plugins, sessions, swap, undo)
+# lazy-lock.json is intentionally tracked to pin plugin versions.
 *.swp
 *.swo
-
-# Backup files
-*.bak
-*.tmp
-
-# Session files
-Session.vim
-
-# Plugin-specific caches
-plugged/
-site/
+tags
